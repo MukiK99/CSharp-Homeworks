@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\bin\Debug\net6.0\Bonus Task 1.exe
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\bin\Debug\net6.0\Bonus Task 1.deps.json
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\bin\Debug\net6.0\Bonus Task 1.runtimeconfig.json
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\bin\Debug\net6.0\Bonus Task 1.dll
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\bin\Debug\net6.0\Bonus Task 1.pdb
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.dll
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\refint\Bonus Task 1.dll
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.pdb
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\Bonus Task 1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seavus\C# Basic\Class04-Methods,Dates and Strings\MethodsDatesAndStringsHomework\Class04HW\Bonus Task 1\obj\Debug\net6.0\ref\Bonus Task 1.dll
